@@ -5,6 +5,8 @@ import yaml
 import sys
 import os
 import goslate
+import time
+import random
 
 gs = goslate.Goslate()
 
@@ -22,8 +24,11 @@ other_yaml = [d for d in english_yaml]
 
 for d in other_yaml:
     del d["root"]
-    time.sleep(1)
-    d["infinitive"] = gs.translate(d["infinitive"], lang_code)
+    time.sleep(random.randint(1,10))
+    try:
+        d["infinitive"] = gs.translate(d["infinitive"], lang_code)
+    except:
+        print('Google is evil')
     print(d)
 
 
