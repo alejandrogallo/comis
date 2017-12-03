@@ -1,0 +1,300 @@
+- infinitive: to agree
+  ids: [1]
+  root: agree
+- infinitive: to appear
+  ids: [2]
+  root: appear
+- infinitive: to ask
+  ids: [3]
+  root: ask
+- infinitive: to be
+  ids: [4]
+  root: be
+- infinitive: to become
+  ids: [5]
+  root: become
+- infinitive: to begin
+  ids: [6]
+  root: begin
+- infinitive: to believe
+  ids: [7]
+  root: believe
+- infinitive: to break
+  ids: [8]
+  root: break
+- infinitive: to bring
+  ids: [9]
+  root: bring
+- infinitive: to build
+  ids: [10]
+  root: build
+- infinitive: to buy
+  ids: [11]
+  root: buy
+- infinitive: to call
+  ids: [12]
+  root: call
+- infinitive: to carry
+  ids: [13]
+  root: carry
+- infinitive: to catch
+  ids: [14]
+  root: catch
+- infinitive: to change
+  ids: [15]
+  root: change
+- infinitive: to choose
+  ids: [16]
+  root: choose
+- infinitive: to come
+  ids: [17]
+  root: come
+- infinitive: to consider
+  ids: [18]
+  root: consider
+- infinitive: to continue
+  ids: [19]
+  root: continue
+- infinitive: to cover
+  ids: [20]
+  root: cover
+- infinitive: to create
+  ids: [21]
+  root: create
+- infinitive: to cut
+  ids: [22]
+  root: cut
+- infinitive: to decide
+  ids: [23]
+  root: decide
+- infinitive: to develop
+  ids: [24]
+  root: develop
+- infinitive: to die
+  ids: [25]
+  root: die
+- infinitive: to do
+  ids: [26]
+  root: do
+- infinitive: to draw
+  ids: [27]
+  root: draw
+- infinitive: to eat
+  ids: [28]
+  root: eat
+- infinitive: to explain
+  ids: [29]
+  root: explain
+- infinitive: to fall
+  ids: [30]
+  root: fall
+- infinitive: to feel
+  ids: [31]
+  root: feel
+- infinitive: to find
+  ids: [32]
+  root: find
+- infinitive: to follow
+  ids: [33]
+  root: follow
+- infinitive: to get
+  ids: [34]
+  root: get
+- infinitive: to give
+  ids: [35]
+  root: give
+- infinitive: to go
+  ids: [36]
+  root: go
+- infinitive: to grow
+  ids: [37]
+  root: grow
+- infinitive: to happen
+  ids: [38]
+  root: happen
+- infinitive: to have
+  ids: [39]
+  root: have
+- infinitive: to hear
+  ids: [40]
+  root: hear
+- infinitive: to help
+  ids: [41]
+  root: help
+- infinitive: to hit
+  ids: [42]
+  root: hit
+- infinitive: to hope
+  ids: [43]
+  root: hope
+- infinitive: to include
+  ids: [44]
+  root: include
+- infinitive: to keep
+  ids: [45]
+  root: keep
+- infinitive: to kill
+  ids: [46]
+  root: kill
+- infinitive: to know
+  ids: [47]
+  root: know
+- infinitive: to lead
+  ids: [48]
+  root: lead
+- infinitive: to learn
+  ids: [49]
+  root: learn
+- infinitive: to leave
+  ids: [50]
+  root: leave
+- infinitive: to let
+  ids: [51]
+  root: let
+- infinitive: to live
+  ids: [52]
+  root: live
+- infinitive: to lose
+  ids: [53]
+  root: lose
+- infinitive: to make
+  ids: [54]
+  root: make
+- infinitive: to mean
+  ids: [55]
+  root: mean
+- infinitive: to meet
+  ids: [56]
+  root: meet
+- infinitive: to move
+  ids: [57]
+  root: move
+- infinitive: to need
+  ids: [58]
+  root: need
+- infinitive: to offer
+  ids: [59]
+  root: offer
+- infinitive: to open
+  ids: [60]
+  root: open
+- infinitive: to pass
+  ids: [61]
+  root: pass
+- infinitive: to pay
+  ids: [62]
+  root: pay
+- infinitive: to play
+  ids: [63]
+  root: play
+- infinitive: to produce
+  ids: [64]
+  root: produce
+- infinitive: to put
+  ids: [65]
+  root: put
+- infinitive: to raise
+  ids: [66]
+  root: raise
+- infinitive: to reach
+  ids: [67]
+  root: reach
+- infinitive: to read
+  ids: [68]
+  root: read
+- infinitive: to receive
+  ids: [69]
+  root: receive
+- infinitive: to remember
+  ids: [70]
+  root: remember
+- infinitive: to return
+  ids: [71]
+  root: return
+- infinitive: to run
+  ids: [72]
+  root: run
+- infinitive: to say
+  ids: [73]
+  root: say
+- infinitive: to see
+  ids: [74]
+  root: see
+- infinitive: to seem
+  ids: [75]
+  root: seem
+- infinitive: to sell
+  ids: [76]
+  root: sell
+- infinitive: to send
+  ids: [77]
+  root: send
+- infinitive: to serve
+  ids: [78]
+  root: serve
+- infinitive: to set
+  ids: [79]
+  root: set
+- infinitive: to show
+  ids: [80]
+  root: show
+- infinitive: to sit
+  ids: [81]
+  root: sit
+- infinitive: to speak
+  ids: [82]
+  root: speak
+- infinitive: to spend
+  ids: [83]
+  root: spend
+- infinitive: to stand
+  ids: [84]
+  root: stand
+- infinitive: to stay
+  ids: [85]
+  root: stay
+- infinitive: to stop
+  ids: [86]
+  root: stop
+- infinitive: to support
+  ids: [87]
+  root: support
+- infinitive: to take
+  ids: [88]
+  root: take
+- infinitive: to teach
+  ids: [89]
+  root: teach
+- infinitive: to tell
+  ids: [90]
+  root: tell
+- infinitive: to think
+  ids: [91]
+  root: think
+- infinitive: to try
+  ids: [92]
+  root: try
+- infinitive: to understand
+  ids: [93]
+  root: understand
+- infinitive: to use
+  ids: [94]
+  root: use
+- infinitive: to walk
+  ids: [95]
+  root: walk
+- infinitive: to want
+  ids: [96]
+  root: want
+- infinitive: to watch
+  ids: [97]
+  root: watch
+- infinitive: to win
+  ids: [98]
+  root: win
+- infinitive: to work
+  ids: [99]
+  root: work
+- infinitive: to write
+  ids: [100]
+  root: write
