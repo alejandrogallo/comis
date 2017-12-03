@@ -298,3 +298,6 @@
 - infinitive: to write
   ids: [100]
   root: write
+- infinitive: to finish
+  ids: [101]
+  root: finish
