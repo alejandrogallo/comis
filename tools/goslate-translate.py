@@ -5,6 +5,7 @@ import yaml
 import sys
 import os
 import goslate
+import time
 
 gs = goslate.Goslate()
 
@@ -22,7 +23,7 @@ other_yaml = [d for d in english_yaml]
 
 for d in other_yaml:
     del d["root"]
-    time.sleep(1)
+    time.sleep(2)
     d["infinitive"] = gs.translate(d["infinitive"], lang_code)
     print(d)
 
