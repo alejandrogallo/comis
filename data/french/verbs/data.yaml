@@ -1,200 +1,300 @@
-- infinitive: accepter
+- ids: []
+  infinitive: accepter
   root: accepter
-- infinitive: agir
+- ids: []
+  infinitive: agir
   root: agir
-- infinitive: aimer
+- ids: []
+  infinitive: aimer
   root: aimer
-- infinitive: ajouter
+- ids: []
+  infinitive: ajouter
   root: ajouter
-- infinitive: aller
+- ids: [36]
+  infinitive: aller
   root: aller
-- infinitive: appartenir
+- ids: []
+  infinitive: appartenir
   root: appartenir
-- infinitive: appeler
+- ids: [12]
+  infinitive: appeler
   root: appeler
-- infinitive: apporter
+- ids: [9]
+  infinitive: apporter
   root: apporter
-- infinitive: apprendre
+- ids: [49]
+  infinitive: apprendre
   root: apprendre
-- infinitive: arriver
+- ids: []
+  infinitive: arriver
   root: arriver
-- infinitive: assurer
+- ids: []
+  infinitive: assurer
   root: assurer
-- infinitive: atteindre
+- ids: [67]
+  infinitive: atteindre
   root: atteindre
-- infinitive: attendre
+- ids: []
+  infinitive: attendre
   root: attendre
-- infinitive: avoir
+- ids: [39]
+  infinitive: avoir
   root: avoir
-- infinitive: changer
+- ids: [15]
+  infinitive: changer
   root: changer
-- infinitive: chercher
+- ids: []
+  infinitive: chercher
   root: chercher
-- infinitive: choisir
+- ids: [16]
+  infinitive: choisir
   root: choisir
-- infinitive: commencer
+- ids: [6]
+  infinitive: commencer
   root: commencer
-- infinitive: comprendre
+- ids: [93]
+  infinitive: comprendre
   root: comprendre
-- infinitive: compter
+- ids: []
+  infinitive: compter
   root: compter
-- infinitive: concerner
+- ids: []
+  infinitive: concerner
   root: concerner
-- infinitive: connaitre
+- ids: [47]
+  infinitive: connaitre
   root: connaitre
-- infinitive: considerer
+- ids: [18]
+  infinitive: considerer
   root: considerer
-- infinitive: continuer
+- ids: [19]
+  infinitive: continuer
   root: continuer
-- infinitive: creer
+- ids: [21]
+  infinitive: creer
   root: creer
-- infinitive: croire
+- ids: [7]
+  infinitive: croire
   root: croire
-- infinitive: decider
+- ids: [23]
+  infinitive: decider
   root: decider
-- infinitive: defendre
+- ids: []
+  infinitive: defendre
   root: defendre
-- infinitive: demander
+- ids: []
+  infinitive: demander
   root: demander
-- infinitive: devenir
+- ids: [5]
+  infinitive: devenir
   root: devenir
-- infinitive: devoir
+- ids: []
+  infinitive: devoir
   root: devoir
-- infinitive: dire
+- ids: [73]
+  infinitive: dire
   root: dire
-- infinitive: donner
+- ids: [35]
+  infinitive: donner
   root: donner
-- infinitive: ecrire
+- ids: [100]
+  infinitive: ecrire
   root: ecrire
-- infinitive: empecher
+- ids: []
+  infinitive: empecher
   root: empecher
-- infinitive: entendre
+- ids: [40]
+  infinitive: entendre
   root: entendre
-- infinitive: entrer
+- ids: []
+  infinitive: entrer
   root: entrer
-- infinitive: essayer
+- ids: [92]
+  infinitive: essayer
   root: essayer
-- infinitive: etre
+- ids: [4]
+  infinitive: etre
   root: etre
-- infinitive: exister
+- ids: []
+  infinitive: exister
   root: exister
-- infinitive: expliquer
+- ids: [29]
+  infinitive: expliquer
   root: expliquer
-- infinitive: faire
+- ids: [26]
+  infinitive: faire
   root: faire
-- infinitive: falloir
+- ids: []
+  infinitive: falloir
   root: falloir
-- infinitive: gagner
+- ids: [98]
+  infinitive: gagner
   root: gagner
-- infinitive: importer
+- ids: []
+  infinitive: importer
   root: importer
-- infinitive: jouer
+- ids: [63]
+  infinitive: jouer
   root: jouer
-- infinitive: laisser
+- ids: [50]
+  infinitive: laisser
   root: laisser
-- infinitive: lire
+- ids: [68]
+  infinitive: lire
   root: lire
-- infinitive: mener
+- ids: []
+  infinitive: mener
   root: mener
-- infinitive: mettre
+- ids: [65]
+  infinitive: mettre
   root: mettre
-- infinitive: montrer
+- ids: [80]
+  infinitive: montrer
   root: montrer
-- infinitive: obtenir
+- ids: [34]
+  infinitive: obtenir
   root: obtenir
-- infinitive: occuper
+- ids: []
+  infinitive: occuper
   root: occuper
-- infinitive: ouvrir
+- ids: [60]
+  infinitive: ouvrir
   root: ouvrir
-- infinitive: parler
+- ids: [82]
+  infinitive: parler
   root: parler
-- infinitive: partir
+- ids: []
+  infinitive: partir
   root: partir
-- infinitive: passer
+- ids: [61]
+  infinitive: passer
   root: passer
-- infinitive: penser
+- ids: [91]
+  infinitive: penser
   root: penser
-- infinitive: perdre
+- ids: [53]
+  infinitive: perdre
   root: perdre
-- infinitive: permettre
+- ids: []
+  infinitive: permettre
   root: permettre
-- infinitive: porter
+- ids: []
+  infinitive: porter
   root: porter
-- infinitive: poser
+- ids: [79]
+  infinitive: poser
   root: poser
-- infinitive: pouvoir
+- ids: []
+  infinitive: pouvoir
   root: pouvoir
-- infinitive: prendre
+- ids: [88]
+  infinitive: prendre
   root: prendre
-- infinitive: preparer
+- ids: []
+  infinitive: preparer
   root: preparer
-- infinitive: presenter
+- ids: []
+  infinitive: presenter
   root: presenter
-- infinitive: produire
+- ids: [64]
+  infinitive: produire
   root: produire
-- infinitive: proposer
+- ids: []
+  infinitive: proposer
   root: proposer
-- infinitive: rappeler
+- ids: [70]
+  infinitive: rappeler
   root: rappeler
-- infinitive: recevoir
+- ids: [69]
+  infinitive: recevoir
   root: recevoir
-- infinitive: reconnaitre
+- ids: []
+  infinitive: reconnaitre
   root: reconnaitre
-- infinitive: refuser
+- ids: []
+  infinitive: refuser
   root: refuser
-- infinitive: relever
+- ids: []
+  infinitive: relever
   root: relever
-- infinitive: remettre
+- ids: []
+  infinitive: remettre
   root: remettre
-- infinitive: rencontrer
+- ids: [32]
+  infinitive: rencontrer
   root: rencontrer
-- infinitive: rendre
+- ids: []
+  infinitive: rendre
   root: rendre
-- infinitive: repondre
+- ids: []
+  infinitive: repondre
   root: repondre
-- infinitive: reprendre
+- ids: []
+  infinitive: reprendre
   root: reprendre
-- infinitive: representer
+- ids: []
+  infinitive: representer
   root: representer
-- infinitive: rester
+- ids: []
+  infinitive: rester
   root: rester
-- infinitive: retrouver
+- ids: []
+  infinitive: retrouver
   root: retrouver
-- infinitive: reussir
+- ids: []
+  infinitive: reussir
   root: reussir
-- infinitive: revenir
+- ids: []
+  infinitive: revenir
   root: revenir
-- infinitive: risquer
+- ids: []
+  infinitive: risquer
   root: risquer
-- infinitive: savoir
+- ids: []
+  infinitive: savoir
   root: savoir
-- infinitive: sembler
+- ids: [75]
+  infinitive: sembler
   root: sembler
-- infinitive: servir
+- ids: []
+  infinitive: servir
   root: servir
-- infinitive: sortir
+- ids: []
+  infinitive: sortir
   root: sortir
-- infinitive: suivre
+- ids: [33]
+  infinitive: suivre
   root: suivre
-- infinitive: tenir
+- ids: []
+  infinitive: tenir
   root: tenir
-- infinitive: tenter
+- ids: []
+  infinitive: tenter
   root: tenter
-- infinitive: tirer
+- ids: []
+  infinitive: tirer
   root: tirer
-- infinitive: toucher
+- ids: []
+  infinitive: toucher
   root: toucher
-- infinitive: travailler
+- ids: [99]
+  infinitive: travailler
   root: travailler
-- infinitive: trouver
+- ids: []
+  infinitive: trouver
   root: trouver
-- infinitive: utiliser
+- ids: [94]
+  infinitive: utiliser
   root: utiliser
-- infinitive: venir
+- ids: [17]
+  infinitive: venir
   root: venir
-- infinitive: vivre
+- ids: [52]
+  infinitive: vivre
   root: vivre
-- infinitive: voir
+- ids: [74]
+  infinitive: voir
   root: voir
-- infinitive: vouloir
+- ids: [96]
+  infinitive: vouloir
   root: vouloir
