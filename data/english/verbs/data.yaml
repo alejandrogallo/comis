@@ -301,3 +301,15 @@
 - infinitive: to finish
   ids: [101]
   root: finish
+- infinitive: to drink
+  ids: [102]
+  root: drink
+- infinitive: to love
+  ids: [103]
+  root: love
+- infinitive: to like
+  ids: [104]
+  root: like
+- infinitive: to cook
+  ids: [105]
+  root: cook
