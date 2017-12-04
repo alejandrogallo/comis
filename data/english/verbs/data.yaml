@@ -418,3 +418,711 @@
 - infinitive: to be happy
   ids: [140]
   root: be happy
+- infinitive: to accept
+  ids: [141]
+  root: accept
+- infinitive: to add
+  ids: [142]
+  root: add
+- infinitive: to admit
+  ids: [143]
+  root: admit
+- infinitive: to advise
+  ids: [144]
+  root: advise
+- infinitive: to allow
+  ids: [145]
+  root: allow
+- infinitive: to announce
+  ids: [146]
+  root: announce
+- infinitive: to annoy
+  ids: [147]
+  root: annoy
+- infinitive: to apologize
+  ids: [148]
+  root: apologize
+- infinitive: to argue
+  ids: [149]
+  root: argue
+- infinitive: to arrest
+  ids: [150]
+  root: arrest
+- infinitive: to attach
+  ids: [151]
+  root: attach
+- infinitive: to attack
+  ids: [152]
+  root: attack
+- infinitive: to avoid
+  ids: [153]
+  root: avoid
+- infinitive: to bake
+  ids: [154]
+  root: bake
+- infinitive: to bear
+  ids: [155]
+  root: bear
+- infinitive: to beat
+  ids: [156]
+  root: beat
+- infinitive: to beg
+  ids: [157]
+  root: beg
+- infinitive: to behave
+  ids: [158]
+  root: behave
+- infinitive: to bend
+  ids: [159]
+  root: bend
+- infinitive: to bet
+  ids: [160]
+  root: bet
+- infinitive: to bind
+  ids: [161]
+  root: bind
+- infinitive: to bite
+  ids: [162]
+  root: bite
+- infinitive: to bleed
+  ids: [163]
+  root: bleed
+- infinitive: to bless
+  ids: [164]
+  root: bless
+- infinitive: to blow
+  ids: [165]
+  root: blow
+- infinitive: to boast
+  ids: [166]
+  root: boast
+- infinitive: to boil
+  ids: [167]
+  root: boil
+- infinitive: to borrow
+  ids: [168]
+  root: borrow
+- infinitive: to bow
+  ids: [169]
+  root: bow
+- infinitive: to breathe
+  ids: [170]
+  root: breathe
+- infinitive: to breed
+  ids: [171]
+  root: breed
+- infinitive: to broadcast
+  ids: [172]
+  root: broadcast
+- infinitive: to burn
+  ids: [173]
+  root: burn
+- infinitive: to burst
+  ids: [174]
+  root: burst
+- infinitive: to calculate
+  ids: [175]
+  root: calculate
+- infinitive: to care
+  ids: [176]
+  root: care
+- infinitive: to cast
+  ids: [177]
+  root: cast
+- infinitive: to cause
+  ids: [178]
+  root: cause
+- infinitive: to chase
+  ids: [179]
+  root: chase
+- infinitive: to cheat
+  ids: [180]
+  root: cheat
+- infinitive: to chew
+  ids: [181]
+  root: chew
+- infinitive: to clap
+  ids: [182]
+  root: clap
+- infinitive: to clean
+  ids: [183]
+  root: clean
+- infinitive: to cling
+  ids: [184]
+  root: cling
+- infinitive: to collect
+  ids: [185]
+  root: collect
+- infinitive: to compare
+  ids: [186]
+  root: compare
+- infinitive: to compete
+  ids: [187]
+  root: compete
+- infinitive: to complain
+  ids: [188]
+  root: complain
+- infinitive: to complete
+  ids: [189]
+  root: complete
+- infinitive: to concentrate
+  ids: [190]
+  root: concentrate
+- infinitive: to confess
+  ids: [191]
+  root: confess
+- infinitive: to confuse
+  ids: [192]
+  root: confuse
+- infinitive: to copy
+  ids: [193]
+  root: copy
+- infinitive: to correct
+  ids: [194]
+  root: correct
+- infinitive: to cost
+  ids: [195]
+  root: cost
+- infinitive: to crash
+  ids: [196]
+  root: crash
+- infinitive: to crawl
+  ids: [197]
+  root: crawl
+- infinitive: to creep
+  ids: [198]
+  root: creep
+- infinitive: to cross
+  ids: [199]
+  root: cross
+- infinitive: to cry
+  ids: [200]
+  root: cry
+- infinitive: to dance
+  ids: [201]
+  root: dance
+- infinitive: to deal
+  ids: [202]
+  root: deal
+- infinitive: to deliver
+  ids: [203]
+  root: deliver
+- infinitive: to describe
+  ids: [204]
+  root: describe
+- infinitive: to deserve
+  ids: [205]
+  root: deserve
+- infinitive: to destroy
+  ids: [206]
+  root: destroy
+- infinitive: to detect
+  ids: [207]
+  root: detect
+- infinitive: to dig
+  ids: [208]
+  root: dig
+- infinitive: to disagree
+  ids: [209]
+  root: disagree
+- infinitive: to disappear
+  ids: [210]
+  root: disappear
+- infinitive: to discover
+  ids: [211]
+  root: discover
+- infinitive: to dislike
+  ids: [212]
+  root: dislike
+- infinitive: to dive
+  ids: [213]
+  root: dive
+- infinitive: to divide
+  ids: [214]
+  root: divide
+- infinitive: to doubt
+  ids: [215]
+  root: doubt
+- infinitive: to dream
+  ids: [216]
+  root: dream
+- infinitive: to dress
+  ids: [217]
+  root: dress
+- infinitive: to earn
+  ids: [218]
+  root: earn
+- infinitive: to educate
+  ids: [219]
+  root: educate
+- infinitive: to end
+  ids: [220]
+  root: end
+- infinitive: to escape
+  ids: [221]
+  root: escape
+- infinitive: to expect
+  ids: [222]
+  root: expect
+- infinitive: to explode
+  ids: [223]
+  root: explode
+- infinitive: to face
+  ids: [224]
+  root: face
+- infinitive: to fail
+  ids: [225]
+  root: fail
+- infinitive: to fear
+  ids: [226]
+  root: fear
+- infinitive: to feed
+  ids: [227]
+  root: feed
+- infinitive: to fight
+  ids: [228]
+  root: fight
+- infinitive: to fill
+  ids: [229]
+  root: fill
+- infinitive: to fit
+  ids: [230]
+  root: fit
+- infinitive: to fix
+  ids: [231]
+  root: fix
+- infinitive: to flee
+  ids: [232]
+  root: flee
+- infinitive: to fling
+  ids: [233]
+  root: fling
+- infinitive: to fold
+  ids: [234]
+  root: fold
+- infinitive: to forbid
+  ids: [235]
+  root: forbid
+- infinitive: to forgive
+  ids: [236]
+  root: forgive
+- infinitive: to form
+  ids: [237]
+  root: form
+- infinitive: to forsake
+  ids: [238]
+  root: forsake
+- infinitive: to freeze
+  ids: [239]
+  root: freeze
+- infinitive: to fry
+  ids: [240]
+  root: fry
+- infinitive: to greet
+  ids: [241]
+  root: greet
+- infinitive: to grind
+  ids: [242]
+  root: grind
+- infinitive: to guard
+  ids: [243]
+  root: guard
+- infinitive: to guess
+  ids: [244]
+  root: guess
+- infinitive: to guide
+  ids: [245]
+  root: guide
+- infinitive: to hang
+  ids: [246]
+  root: hang
+- infinitive: to hate
+  ids: [247]
+  root: hate
+- infinitive: to hide
+  ids: [248]
+  root: hide
+- infinitive: to hug
+  ids: [249]
+  root: hug
+- infinitive: to hunt
+  ids: [250]
+  root: hunt
+- infinitive: to hurry
+  ids: [251]
+  root: hurry
+- infinitive: to hurt
+  ids: [252]
+  root: hurt
+- infinitive: to ignore
+  ids: [253]
+  root: ignore
+- infinitive: to imagine
+  ids: [254]
+  root: imagine
+- infinitive: to improve
+  ids: [255]
+  root: improve
+- infinitive: to introduce
+  ids: [256]
+  root: introduce
+- infinitive: to invite
+  ids: [257]
+  root: invite
+- infinitive: to joke
+  ids: [258]
+  root: joke
+- infinitive: to jump
+  ids: [259]
+  root: jump
+- infinitive: to kiss
+  ids: [260]
+  root: kiss
+- infinitive: to kneel
+  ids: [261]
+  root: kneel
+- infinitive: to knit
+  ids: [262]
+  root: knit
+- infinitive: to laugh
+  ids: [263]
+  root: laugh
+- infinitive: to lay
+  ids: [264]
+  root: lay
+- infinitive: to leap
+  ids: [265]
+  root: leap
+- infinitive: to lend
+  ids: [266]
+  root: lend
+- infinitive: to lie
+  ids: [267]
+  root: lie
+- infinitive: to lie
+  ids: [268]
+  root: lie
+- infinitive: to light
+  ids: [269]
+  root: light
+- infinitive: to marry
+  ids: [270]
+  root: marry
+- infinitive: to miss
+  ids: [271]
+  root: miss
+- infinitive: to misspell
+  ids: [272]
+  root: misspell
+- infinitive: to mistake
+  ids: [273]
+  root: mistake
+- infinitive: to murder
+  ids: [274]
+  root: murder
+- infinitive: to notice
+  ids: [275]
+  root: notice
+- infinitive: to overcome
+  ids: [276]
+  root: overcome
+- infinitive: to overtake
+  ids: [277]
+  root: overtake
+- infinitive: to overthrow
+  ids: [278]
+  root: overthrow
+- infinitive: to paint
+  ids: [279]
+  root: paint
+- infinitive: to pause
+  ids: [280]
+  root: pause
+- infinitive: to permit
+  ids: [281]
+  root: permit
+- infinitive: to place
+  ids: [282]
+  root: place
+- infinitive: to plan
+  ids: [283]
+  root: plan
+- infinitive: to plant
+  ids: [284]
+  root: plant
+- infinitive: to plead
+  ids: [285]
+  root: plead
+- infinitive: to pray
+  ids: [286]
+  root: pray
+- infinitive: to pretend
+  ids: [287]
+  root: pretend
+- infinitive: to prevent
+  ids: [288]
+  root: prevent
+- infinitive: to promise
+  ids: [289]
+  root: promise
+- infinitive: to protect
+  ids: [290]
+  root: protect
+- infinitive: to prove
+  ids: [291]
+  root: prove
+- infinitive: to punish
+  ids: [292]
+  root: punish
+- infinitive: to push
+  ids: [293]
+  root: push
+- infinitive: to quit
+  ids: [294]
+  root: quit
+- infinitive: to refuse
+  ids: [295]
+  root: refuse
+- infinitive: to regret
+  ids: [296]
+  root: regret
+- infinitive: to relax
+  ids: [297]
+  root: relax
+- infinitive: to remain
+  ids: [298]
+  root: remain
+- infinitive: to remind
+  ids: [299]
+  root: remind
+- infinitive: to remove
+  ids: [300]
+  root: remove
+- infinitive: to repair
+  ids: [301]
+  root: repair
+- infinitive: to repeat
+  ids: [302]
+  root: repeat
+- infinitive: to replace
+  ids: [303]
+  root: replace
+- infinitive: to reply
+  ids: [304]
+  root: reply
+- infinitive: to report
+  ids: [305]
+  root: report
+- infinitive: to request
+  ids: [306]
+  root: request
+- infinitive: to rescue
+  ids: [307]
+  root: rescue
+- infinitive: to get rid
+  ids: [308]
+  root: get rid
+- infinitive: to ride
+  ids: [309]
+  root: ride
+- infinitive: to ring
+  ids: [310]
+  root: ring
+- infinitive: to rise
+  ids: [311]
+  root: rise
+- infinitive: to rule
+  ids: [312]
+  root: rule
+- infinitive: to rush
+  ids: [313]
+  root: rush
+- infinitive: to sail
+  ids: [314]
+  root: sail
+- infinitive: to save
+  ids: [315]
+  root: save
+- infinitive: to saw
+  ids: [316]
+  root: saw
+- infinitive: to saw
+  ids: [317]
+  root: saw
+- infinitive: to scream
+  ids: [318]
+  root: scream
+- infinitive: to seek
+  ids: [319]
+  root: seek
+- infinitive: to sew
+  ids: [320]
+  root: sew
+- infinitive: to shake
+  ids: [321]
+  root: shake
+- infinitive: to share
+  ids: [322]
+  root: share
+- infinitive: to shave
+  ids: [323]
+  root: shave
+- infinitive: to shine
+  ids: [324]
+  root: shine
+- infinitive: to shoot
+  ids: [325]
+  root: shoot
+- infinitive: to shop
+  ids: [326]
+  root: shop
+- infinitive: to shrink
+  ids: [327]
+  root: shrink
+- infinitive: to shut
+  ids: [328]
+  root: shut
+- infinitive: to sign
+  ids: [329]
+  root: sign
+- infinitive: to sing
+  ids: [330]
+  root: sing
+- infinitive: to sink
+  ids: [331]
+  root: sink
+- infinitive: to slay
+  ids: [332]
+  root: slay
+- infinitive: to slide
+  ids: [333]
+  root: slide
+- infinitive: to sling
+  ids: [334]
+  root: sling
+- infinitive: to smile
+  ids: [335]
+  root: smile
+- infinitive: to smoke
+  ids: [336]
+  root: smoke
+- infinitive: to sneeze
+  ids: [337]
+  root: sneeze
+- infinitive: to speed
+  ids: [338]
+  root: speed
+- infinitive: to spell
+  ids: [339]
+  root: spell
+- infinitive: to spill
+  ids: [340]
+  root: spill
+- infinitive: to spit
+  ids: [341]
+  root: spit
+- infinitive: to split
+  ids: [342]
+  root: split
+- infinitive: to spread
+  ids: [343]
+  root: spread
+- infinitive: to squeeze
+  ids: [344]
+  root: squeeze
+- infinitive: to steal
+  ids: [345]
+  root: steal
+- infinitive: to sting
+  ids: [346]
+  root: sting
+- infinitive: to strike
+  ids: [347]
+  root: strike
+- infinitive: to strive
+  ids: [348]
+  root: strive
+- infinitive: to succeed
+  ids: [349]
+  root: succeed
+- infinitive: to suffer
+  ids: [350]
+  root: suffer
+- infinitive: to suggest
+  ids: [351]
+  root: suggest
+- infinitive: to surprise
+  ids: [352]
+  root: surprise
+- infinitive: to swear
+  ids: [353]
+  root: swear
+- infinitive: to sweep
+  ids: [354]
+  root: sweep
+- infinitive: to swell
+  ids: [355]
+  root: swell
+- infinitive: to swing
+  ids: [356]
+  root: swing
+- infinitive: to talk
+  ids: [357]
+  root: talk
+- infinitive: to taste
+  ids: [358]
+  root: taste
+- infinitive: to tear
+  ids: [359]
+  root: tear
+- infinitive: to test
+  ids: [360]
+  root: test
+- infinitive: to thank
+  ids: [361]
+  root: thank
+- infinitive: to thrive
+  ids: [362]
+  root: thrive
+- infinitive: to throw
+  ids: [363]
+  root: throw
+- infinitive: to touch
+  ids: [364]
+  root: touch
+- infinitive: to train
+  ids: [365]
+  root: train
+- infinitive: to twist
+  ids: [366]
+  root: twist
+- infinitive: to upset
+  ids: [367]
+  root: upset
+- infinitive: to warn
+  ids: [368]
+  root: warn
+- infinitive: to wed
+  ids: [369]
+  root: wed
+- infinitive: to weep
+  ids: [370]
+  root: weep
+- infinitive: to welcome
+  ids: [371]
+  root: welcome
+- infinitive: to wind
+  ids: [372]
+  root: wind
+- infinitive: to wish
+  ids: [373]
+  root: wish
+- infinitive: to withhold
+  ids: [374]
+  root: withhold
+- infinitive: to withstand
+  ids: [375]
+  root: withstand
+- infinitive: to worry
+  ids: [376]
+  root: worry
