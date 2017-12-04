@@ -313,3 +313,108 @@
 - infinitive: to cook
   ids: [105]
   root: cook
+- infinitive: to be able
+  ids: [106]
+  root: be able
+- infinitive: to be late
+  ids: [107]
+  root: be late
+- infinitive: to visit
+  ids: [108]
+  root: visit
+- infinitive: to arrive
+  ids: [109]
+  root: arrive
+- infinitive: to order
+  ids: [110]
+  root: order
+- infinitive: to enter
+  ids: [111]
+  root: enter
+- infinitive: to recommend
+  ids: [112]
+  root: recommend
+- infinitive: to look
+  ids: [113]
+  root: look
+- infinitive: to prefer
+  ids: [114]
+  root: prefer
+- infinitive: to disturb
+  ids: [115]
+  root: disturb
+- infinitive: to listen
+  ids: [116]
+  root: listen
+- infinitive: to obtain
+  ids: [117]
+  root: obtain
+- infinitive: to participate
+  ids: [118]
+  root: participate
+- infinitive: to start
+  ids: [119]
+  root: start
+- infinitive: to intend
+  ids: [120]
+  root: intend
+- infinitive: to exercise
+  ids: [121]
+  root: exercise
+- infinitive: to wait
+  ids: [122]
+  root: wait
+- infinitive: to park
+  ids: [123]
+  root: park
+- infinitive: to search
+  ids: [124]
+  root: search
+- infinitive: to fly
+  ids: [125]
+  root: fly
+- infinitive: to enjoy
+  ids: [126]
+  root: enjoy
+- infinitive: to sleep
+  ids: [127]
+  root: sleep
+- infinitive: to wear
+  ids: [128]
+  root: wear
+- infinitive: to drive
+  ids: [129]
+  root: drive
+- infinitive: to travel
+  ids: [130]
+  root: travel
+- infinitive: to close
+  ids: [131]
+  root: close
+- infinitive: to leave behind
+  ids: [132]
+  root: leave behind
+- infinitive: to answer
+  ids: [133]
+  root: answer
+- infinitive: to arrange
+  ids: [134]
+  root: arrange
+- infinitive: to wake up
+  ids: [135]
+  root: wake up
+- infinitive: to descend
+  ids: [136]
+  root: descend
+- infinitive: to wash
+  ids: [137]
+  root: wash
+- infinitive: to forget
+  ids: [138]
+  root: forget
+- infinitive: to rent
+  ids: [139]
+  root: rent
+- infinitive: to be happy
+  ids: [140]
+  root: be happy
