@@ -1,0 +1,589 @@
+- future: אוכל
+  ids:
+  - 106
+  infinitive: להיות מסוגל
+  past: יכולתי
+  present: יכול
+- future: אוהב
+  ids:
+  - 104
+  infinitive: לאהוב
+  past: אהבתי
+  present: אוהב
+- future: אאחר
+  ids:
+  - 107
+  infinitive: לאחר
+  past: אחרתי
+  present: מאחר
+- future: אוכל
+  ids:
+  - 28
+  infinitive: לאכול
+  past: אכלתי
+  present: אוכל
+- future: אבוא
+  ids:
+  - 17
+  infinitive: לבוא
+  past: באתי
+  present: בא
+- future: אבחר
+  ids:
+  - 16
+  infinitive: לבחור
+  past: בחרתי
+  present: בוחר
+- future: אבקר
+  ids:
+  - 108
+  infinitive: לבקר
+  past: בקרתי
+  present: מבקר
+- future: אבקש
+  ids: &id004
+  - 3
+  infinitive: לבקש
+  past: בקשתי
+  present: מבקש
+- future: אבשל
+  ids:
+  - 105
+  infinitive: לבשל
+  past: בשלתי
+  present: מבשל
+- future: אגור
+  ids:
+  - 52
+  infinitive: לגור
+  past: גרתי
+  present: גר
+- future: אדבר
+  ids:
+  - 82
+  infinitive: לדבר
+  past: דברתי
+  present: מדבר
+- future: אדע
+  ids: &id001
+  - 47
+  infinitive: לדעת
+  past: ידעתי
+  present: יודע
+- future: אאמין
+  ids:
+  - 7
+  infinitive: להאמין
+  past: האמנתי
+  present: מאמין
+- future: אביא
+  ids:
+  - 9
+  infinitive: להביא
+  past: הבאתי
+  present: מביא
+- future: אבין
+  ids:
+  - 93
+  infinitive: להבין
+  past: הבנתי
+  present: מבין
+- future: אגיד
+  ids:
+  - 90
+  infinitive: להגיד
+  past: null
+  present: null
+- future: אגיע
+  ids:
+  - 109
+  infinitive: להגיע
+  past: הגעתי
+  present: מגיע
+- future: אזמין
+  ids:
+  - 110
+  infinitive: להזמין
+  past: הזמנתי
+  present: מזמין
+- future: אחליט
+  ids:
+  - 23
+  infinitive: להחליט
+  past: החלטתי
+  present: מחליט
+- future: אהיה
+  ids:
+  - 4
+  infinitive: להיות
+  past: הייתי
+  present: null
+- future: אכנס
+  ids:
+  - 111
+  infinitive: להיכנס
+  past: נכנסתי
+  present: נכנס
+- future: אפגש
+  ids: &id003
+  - 56
+  infinitive: להיפגש
+  past: נפגשתי
+  present: נפגש
+- future: אשאר
+  ids:
+  - 85
+  infinitive: להישאר
+  past: נשארתי
+  present: נשאר
+- future: אכיר
+  ids: *id001
+  infinitive: להכיר
+  past: הכרתי
+  present: מכיר
+- future: אמליץ
+  ids:
+  - 112
+  infinitive: להמליץ
+  past: המלצתי
+  present: ממליץ
+- future: אסביר
+  ids:
+  - 29
+  infinitive: להסביר
+  past: הסברתי
+  present: מסביר
+- future: אסכים
+  ids:
+  - 1
+  infinitive: להסכים
+  past: הסכמתי
+  present: מסכים
+- future: אסתכל
+  ids:
+  - 113
+  infinitive: להסתכל
+  past: הסתכלתי
+  present: מסתכל
+- future: אעדיף
+  ids:
+  - 114
+  infinitive: להעדיף
+  past: העדפתי
+  present: מעדיף
+- future: אפסיק
+  ids: &id002
+  - 86
+  infinitive: להפסיק
+  past: הפסקתי
+  present: מפסיק
+- future: אפריע
+  ids:
+  - 115
+  infinitive: להפריע
+  past: הפרעתי
+  present: מפריע
+- future: אצטרך
+  ids:
+  - 58
+  infinitive: להצטרך
+  past: הייתי צריך
+  present: צריך
+- future: אקשיב
+  ids:
+  - 116
+  infinitive: להקשיב
+  past: הקשבתי
+  present: מקשיב
+- future: ארגיש
+  ids:
+  - 31
+  infinitive: להרגיש
+  past: הרגשתי
+  present: מרגיש
+- future: אשיג
+  ids:
+  - 117
+  infinitive: להשיג
+  past: השגתי
+  present: משיג
+- future: אשתמש
+  ids:
+  - 94
+  infinitive: להשתמש
+  past: השתמשתי
+  present: משתמש
+- future: אשתתף
+  ids:
+  - 118
+  infinitive: להשתתף
+  past: השתתפתי
+  present: משתתף
+- future: אתחיל
+  ids:
+  - 119
+  infinitive: להתחיל
+  past: התחלתי
+  present: מתחיל
+- future: אתכוון
+  ids:
+  - 120
+  infinitive: להתכוון
+  past: התכוונתי
+  present: מתכוון
+- future: אתעמל
+  ids:
+  - 121
+  infinitive: להתעמל
+  past: התעמלתי
+  present: מתעמל
+- future: אתקשר
+  ids:
+  - 12
+  infinitive: להתקשר
+  past: התקשרתי
+  present: מתקשר
+- future: אומר
+  ids:
+  - 73
+  infinitive: לומר
+  past: אמרתי
+  present: אומר
+- future: אזוז
+  ids:
+  - 57
+  infinitive: לזוז
+  past: זזתי
+  present: זז
+- future: אזכור
+  ids:
+  - 70
+  infinitive: לזכור
+  past: זכרתי
+  present: זוכר
+- future: אחזור
+  ids:
+  - 71
+  infinitive: לחזור
+  past: חזרתי
+  present: חוזר
+- future: אחכה
+  ids:
+  - 122
+  infinitive: לחכות
+  past: חכיתי
+  present: מחכה
+- future: אחנה
+  ids:
+  - 123
+  infinitive: לחנות
+  past: חניתי
+  present: חונה
+- future: אחפש
+  ids:
+  - 124
+  infinitive: לחפש
+  past: חפשתי
+  present: מחפש
+- future: אחשוב
+  ids:
+  - 91
+  infinitive: לחשוב
+  past: חשבתי
+  present: חושב
+- future: אטוס
+  ids:
+  - 125
+  infinitive: לטוס
+  past: טסתי
+  present: טס
+- future: אהנה
+  ids:
+  - 126
+  infinitive: ליהנות
+  past: נהניתי
+  present: נהנה
+- future: אצור
+  ids:
+  - 21
+  infinitive: ליצור
+  past: יצרתי
+  present: יוצר
+- future: אישן
+  ids:
+  - 127
+  infinitive: לישון
+  past: ישנתי
+  present: ישן
+- future: אכתוב
+  ids:
+  - 100
+  infinitive: לכתוב
+  past: כתבתי
+  present: כותב
+- future: אלבש
+  ids:
+  - 128
+  infinitive: ללבוש
+  past: לבשתי
+  present: לובש
+- future: אלך
+  ids:
+  - 95
+  infinitive: ללכת
+  past: הלכתי
+  present: הולך
+- future: אלמד
+  ids:
+  - 89
+  infinitive: ללמד
+  past: למדתי
+  present: מלמד
+- future: אלמד
+  ids:
+  - 49
+  infinitive: ללמוד
+  past: למדתי
+  present: לומד
+- future: אמות
+  ids:
+  - 25
+  infinitive: למות
+  past: מתי
+  present: מת
+- future: אמכור
+  ids:
+  - 76
+  infinitive: למכור
+  past: מכרתי
+  present: מוכר
+- future: אמצא
+  ids:
+  - 32
+  infinitive: למצוא
+  past: מצאתי
+  present: מוצא
+- future: אנהג
+  ids:
+  - 129
+  infinitive: לנהוג
+  past: נהגתי
+  present: נוהג
+- future: אסע
+  ids:
+  - 130
+  infinitive: לנסוע
+  past: נסעתי
+  present: נוסע
+- future: אנסה
+  ids:
+  - 92
+  infinitive: לנסות
+  past: נסיתי
+  present: מנסה
+- future: אנצח
+  ids:
+  - 98
+  infinitive: לנצח
+  past: נצחתי
+  present: מנצח
+- future: אסגור
+  ids:
+  - 131
+  infinitive: לסגור
+  past: סגרתי
+  present: סוגר
+- future: אסיים
+  ids:
+  - 101
+  infinitive: לסיים
+  past: סיימתי
+  present: מסיים
+- future: אעבוד
+  ids:
+  - 99
+  infinitive: לעבוד
+  past: עבדתי
+  present: עובד
+- future: אעבור
+  ids:
+  - 61
+  infinitive: לעבור
+  past: עברתי
+  present: עובר
+- future: אעזוב
+  ids:
+  - 132
+  infinitive: לעזוב
+  past: עזבתי
+  present: עוזב
+- future: אעזור
+  ids:
+  - 41
+  infinitive: לעזור
+  past: עזרתי
+  present: עוזר
+- future: אענה
+  ids:
+  - 133
+  infinitive: לענות
+  past: עניתי
+  present: עונה
+- future: אעצור
+  ids: *id002
+  infinitive: לעצור
+  past: עצרתי
+  present: עוצר
+- future: אערוך
+  ids:
+  - 134
+  infinitive: לערוך
+  past: ערכתי
+  present: עורך
+- future: אעשה
+  ids:
+  - 26
+  infinitive: לעשות
+  past: עשיתי
+  present: עושה
+- future: אפגוש
+  ids: *id003
+  infinitive: לפגוש
+  past: פגשתי
+  present: פוגש
+- future: אפתח
+  ids:
+  - 60
+  infinitive: לפתוח
+  past: פתחתי
+  present: פותח
+- future: אצא
+  ids:
+  - 50
+  infinitive: לצאת
+  past: יצאתי
+  present: יוצא
+- future: אקבל
+  ids:
+  - 69
+  infinitive: לקבל
+  past: קבלתי
+  present: מקבל
+- future: אקום
+  ids:
+  - 135
+  infinitive: לקום
+  past: קמתי
+  present: קם
+- future: אקח
+  ids:
+  - 88
+  infinitive: לקחת
+  past: לקחתי
+  present: לוקח
+- future: אקנה
+  ids:
+  - 11
+  infinitive: לקנות
+  past: קניתי
+  present: קונה
+- future: אקרא
+  ids:
+  - 68
+  infinitive: לקרוא
+  past: קראתי
+  present: קורא
+- future: אראה
+  ids:
+  - 74
+  infinitive: לראות
+  past: ראיתי
+  present: רואה
+- future: ארד
+  ids:
+  - 136
+  infinitive: לרדת
+  past: ירדתי
+  present: יורד
+- future: ארוץ
+  ids:
+  - 72
+  infinitive: לרוץ
+  past: רצתי
+  present: רץ
+- future: ארחץ
+  ids:
+  - 137
+  infinitive: לרחוץ
+  past: רחצתי
+  present: רוחץ
+- future: ארצה
+  ids:
+  - 96
+  infinitive: לרצות
+  past: רציתי
+  present: רוצה
+- future: אשאל
+  ids: *id004
+  infinitive: לשאול
+  past: שאלתי
+  present: שואל
+- future: אשב
+  ids:
+  - 81
+  infinitive: לשבת
+  past: ישבתי
+  present: יושב
+- future: אשחק
+  ids:
+  - 63
+  infinitive: לשחק
+  past: שחקתי
+  present: משחק
+- future: אשכח
+  ids:
+  - 138
+  infinitive: לשכוח
+  past: שכחתי
+  present: שוכח
+- future: אשכור
+  ids:
+  - 139
+  infinitive: לשכור
+  past: שכרתי
+  present: שוכר
+- future: אשלח
+  ids:
+  - 77
+  infinitive: לשלוח
+  past: שלחתי
+  present: שולח
+- future: אשלם
+  ids:
+  - 62
+  infinitive: לשלם
+  past: שלמתי
+  present: משלם
+- future: אשמח
+  ids:
+  - 140
+  infinitive: לשמוח
+  past: שמחתי
+  present: שמח
+- future: אשמע
+  ids:
+  - 40
+  infinitive: לשמוע
+  past: שמעתי
+  present: שומע
+- future: אשתה
+  ids:
+  - 102
+  infinitive: לשתות
+  past: שתיתי
+  present: שותה
+- future: אתן
+  ids:
+  - 35
+  past: נתתי
+  present: נותן
